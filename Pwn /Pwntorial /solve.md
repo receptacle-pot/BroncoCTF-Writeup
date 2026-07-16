@@ -1,10 +1,5 @@
 ## Description :
 
-Have you read the Pwntorial? Ready to graduate from baby pwns?
-
-This should do it. Three gates and a treasure room await your input.
-
-sc broncoctf-proper-pwning.chals.io
 
 > Have you read the Pwntorial? Ready to graduate from baby pwns?
 >
