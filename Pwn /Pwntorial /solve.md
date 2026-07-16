@@ -269,15 +269,18 @@ io.interactive()
 # Output
 
 ```
-[+] Gate 1 opens.
+┌──(kali㉿kali)-[~/Downloads]
+└─$ python3 solsol.py 
+[+] Opening connection to 0.cloud.chals.io on port 34381: Done
+[*] Switching to interactive mode
+[*] Nom nom... swallowed 91 bytes. Deploying the Barnacle Barrier...
+[*] The trap is set. Good luck, sailor.
 
-[+] Gate 2 opens.
+bronco{h0w_c4n_mr_kr4b5_c0de}
+$ 
+[*] Interrupted
+[*] Closed connection to 0.cloud.chals.io port 34381
 
-[+] Gate 3 opens.
-
-TREASURE?
-
-you're the greatest C pwner of all time.
 ```
 
 ---
