@@ -5,7 +5,7 @@ My friend tried to motivate me to review my derivatives by telling that me that 
 
 ## Flag :
 
-'''
+```
 bronco{1_WOULDNT_M@K3_YOU_DO_C@LCULUS}
-'''
+```
 
